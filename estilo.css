@@ -1,0 +1,84 @@
+
+body {
+	background: url(http://i.imgur.com/SWcI1sE.png);
+}
+
+a:link 
+{ 
+	text-decoration:none; 
+	color:#f99084;
+} 
+
+a:hover {
+	text-decoration:none; 
+	color:#f99084;
+	}
+a:visited {
+	text-decoration:none; 
+	color:#f99084;
+}
+	
+li{	
+	color:#f99084;
+	font-family: 'Bad Script', cursive;
+	font-size: 22px;
+}
+
+
+.txtbusca {
+	border:0px solid #222;
+	background:#EEE;
+}
+
+.btnBusca {
+	background:#f99084;
+	border:0px solid #222;
+	color:#FFF; 
+	border:0 none;
+	font-size:11px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+.btnBusca:hover {
+background:#f99084; 
+}
+
+.sobre{
+	text-align: center;
+}
+
+
+.titulo {
+	font-family: 'Bad Script', cursive;
+	color: #f99084;
+	text-align: center;
+}
+
+.post-texto span {
+	color: #f99084; 
+	font-weight:bold;	
+}
+
+.post-texto p  {
+	font-family: 'Raleway', sans-serif;
+	text-align: justify;
+} 
+
+.colmenor p {
+	font-family: 'Raleway', sans-serif;
+} 
+
+.contato p {
+	font-family: 'Raleway', sans-serif;
+} 
+.contato {
+	background: #FFF;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.contato h1 { 
+	font-family: 'Bad Script', cursive;
+	color: #f99084;
+}
